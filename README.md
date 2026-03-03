@@ -52,10 +52,11 @@ This project was built to:
 
 ## 📸 Screenshots
 
-*(You can add screenshots here by uploading images to GitHub and pasting them like this)*
+
 
 ```
-![Homepage Screenshot](images/screenshot.png)
+<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/8423f715-fc05-4ac1-b3c3-17a3c8971ef7" />
+
 ```
 
 ---
@@ -65,7 +66,7 @@ This project was built to:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/TanyaMullick/Amazon_clone.git
 ```
 
 2. Open the project folder.
